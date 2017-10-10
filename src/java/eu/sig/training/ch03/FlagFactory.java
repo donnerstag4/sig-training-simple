@@ -50,6 +50,9 @@ public class FlagFactory {
 
     // tag::buildAndSendMail[]
 
+    // tag::Ini ngga guna[]
+    // tagnggaguna[]
+
     private static Map<Nationality, List<Color>> FLAGS =
     new HashMap<Nationality, List<Color>>();
 
