@@ -19,7 +19,6 @@ public class BuildAndSendMail {
         mail.getMailMan().send(mId, emailContent.getSubject(), mMessage);
     }
     
-    // end::buildAndSendMail[]
     private MailMessage formatMessage(MailFont font, String string) {
         return null;
     }
