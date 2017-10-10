@@ -45,6 +45,7 @@ public class FlagFactory {
             break;
         }
         return result;
+        Ngga guna sma sekali
     }*/
 
     private static Map<Nationality, List<Color>> FLAGS =
@@ -56,6 +57,11 @@ public class FlagFactory {
         FLAGS.put(BELGIAN, Arrays.asList(Color.BLACK, Color.YELLOW, Color.RED));
         FLAGS.put(FRENCH, Arrays.asList(Color.BLUE, Color.WHITE, Color.RED));
         FLAGS.put(ITALIAN, Arrays.asList(Color.GREEN, Color.WHITE, Color.RED));
+        FLAGS.put(ROMANIA, Arrays.asList(Color.BLUE, Color.YELLOW, Color.RED);
+        FLAGS.put(IRELAND, Arrays.asList(Color.GREEN, Color.WHITE, Color.ORANGE);
+        FLAGS.put(HUNGARIAN, Arrays.asList(Color.RED, Color.WHITE, Color.GREEN);
+        FLAGS.put(BULGARIAN, Arrays.asList(Color.WHITE, Color.GREEN, Color.RED);
+        FLAGS.put(RUSSIA, Arrays.asList(Color.WHITE, Color.BLUE, Color.RED);
     }
 
     public List<Color> getFlagColors(Nationality nationality) {
