@@ -48,6 +48,8 @@ public class FlagFactory {
         Ngga guna sma sekali
     }*/
 
+    // tag::buildAndSendMail[]
+
     private static Map<Nationality, List<Color>> FLAGS =
     new HashMap<Nationality, List<Color>>();
 
