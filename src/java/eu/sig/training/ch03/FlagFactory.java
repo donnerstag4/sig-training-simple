@@ -48,6 +48,9 @@ public class FlagFactory {
         Ngga guna sma sekali
     }*/
 
+    // ngga gunaaaaa
+    // ngga: gunaaa
+
     private static Map<Nationality, List<Color>> FLAGS =
     new HashMap<Nationality, List<Color>>();
 
